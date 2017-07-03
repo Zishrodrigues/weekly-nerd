@@ -14,6 +14,8 @@ Zishan K. Pasha | Minor web development(CMD)
 
 ### Stephen Hay (07-02-2017)
 
+[Stephan Hay](../master/notes/stephenhay.md)
+
 ### Justes Sturkenboom (14-02-2017)
 
 ### Peter Paul Koch (28-02-2017)
