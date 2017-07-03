@@ -6,7 +6,7 @@ Zishan K. Pasha | Minor web development(CMD)
 
 * [Thinking on paper](../master/articles/sketchnoting.md)
 * [A limitless tool belt](../master/articles/toolbelt.md)
-* [The house of tomorrow](../master/articles.webofthings.md)
+* [The house of tomorrow](../master/articles/webofthings.md)
 * [The web is for everyone](../master/articles/accessibility.md)
 * [Progressive enhancement](../master/articles/progressive.md)
 
