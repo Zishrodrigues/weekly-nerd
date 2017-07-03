@@ -4,4 +4,4 @@
 
 ## Sketch notes
 
-![Stephan Hay sketchnotes]("")
+![Stephan Hay sketchnotes]("https://github.com/Zishrodrigues/weekly-nerd/blob/master/notes/images/1-hay.JPG")
