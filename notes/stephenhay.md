@@ -4,4 +4,4 @@
 
 ## Sketch notes
 
-![Stephan Hay sketchnotes]("../master/notes/images/1-hay.JPG")
+![Stephan Hay sketchnotes](../master/notes/images/1-hay.JPG)
