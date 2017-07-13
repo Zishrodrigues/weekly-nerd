@@ -9,7 +9,7 @@ Zishan K. Pasha | Minor web development(CMD)
 Wat een ontzettend toffe schrijfstijl heb je. Gebruik dat gerust in de toekomst om copy te verbeteren op de sites waar je aan werkt. Een mooi en belangrijk talent. Zorg er alleen voor dat je ook wat links/bronnen toevoegt!
 ```
 
-* The articles we're received well, I only failed to mention sources at the end of my articles. This has been fixed! These can now be found at the end of each article.
+* The articles were received well, I only failed to mention sources at the end of my articles. This has been fixed! These can now be found at the end of each article.
 
 * To do:
 
