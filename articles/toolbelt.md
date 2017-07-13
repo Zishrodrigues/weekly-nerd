@@ -21,3 +21,8 @@ Today web apps are doing their best to keep up with native apps. While there’s
 ### conclusion
 
 So.. what is the solution? One of the more extreme solutions could be to just stop adding features for a while. Learn and work with what we have until we perfected it. But that’s a pretty bold idea. Another though is to accept that the web is different on all kinds of devices and context. And instead of viewing this as a bad thing we can view it as a good thing; a strength. Maybe if we stop trying to make web apps look and behave like native apps, we can embrace it’s power of flexibility and work on making smaller, friendlier tools. I’ll get right to that after checking out the sweet new Angular 4 release.
+
+#### sources
+
+* [Is web browser developing moving too fast?](https://betanews.com/2011/04/14/is-web-browser-development-moving-too-fast/)
+* [Choosing the web's future (talk by Peter Paul Koch)](https://www.youtube.com/watch?v=5pGB_Ve1L10)

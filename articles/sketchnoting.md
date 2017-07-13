@@ -22,3 +22,8 @@ At each talk you casually write down words, connect them with clouds and sketch 
 ### conclusion
 
 This is the essence of what Eva-lotta lamm was saying in her talk. Sketch noting isn’t about doing the thing that’s ‘hip’ at the moment, nor is it a way to try and be more creative. It’s merely about having a deep and profound connection with your own subconscious. You draw what you think, you draw what you feel. And with time, you’ll be able to reflect upon your own sketch notes and your current self will be communicating with your past self through your drawings and words. A lot of people fear the idea of sketching. They’re afraid that they aren’t good enough to draw. But that’s the beauty of sketch noting; there is no wrong. You are the audience. You are free and with each pen stroke you have the power to do anything. So the next time you’re thinking about taking written notes at a conference; let yourself go and try sketching. Who knows, maybe your future self will thank you.
+
+#### sources
+
+* [10 great sketchnote examples](http://www.teachthought.com/pedagogy/literacy/10-brilliant-examples-of-sketch-notes-notaking-for-the-21st-century/)
+* [Sketchers are better thinkers](https://www.youtube.com/watch?v=_enwy3x-7vM)

@@ -8,7 +8,7 @@
 
 ### Web of things
 
-Soft and relaxing guitar music starts playing in the background. The ambient lights in your living room slowly come alive as the sun does in the early morning. The oven starts preheating. You hang your coat, it was a long day and you’re tired. As you walk into the kitchen the refrigerator door opens, you get out food and put it in the oven. You walk to the living room, the tv starts and the guitar music fades out. You sit down on the couch and a bottle of ice cooled beer slides down from a tube in the wall right into your hand. Your feet land on the table and you take a sip. Time to lay back and relax.
+Soft and relaxing guitar music starts playing in the background. The ambient lights in your living room slowly come alive. The oven starts preheating. You hang your coat, it was a long day and you’re tired. As you walk into the kitchen the refrigerator door opens, you get out food and put it in the oven. You walk to the living room, the tv starts and the guitar music fades out. You sit down on the couch and a bottle of ice cooled beer slides down from a tube in the wall right into your hand. Your feet land on the table and you take a sip. Time to lay back and relax.
 
 ### Easy living
 
@@ -21,3 +21,9 @@ Arduino and NodeMCU changed a lot for Internet of things. Using these simple boa
 ### conclusion
 
 ‘The house of the future’ really isn’t an impossible of unrealistic idea anymore. We can dream up concepts and ideas for our automated house and then build prototypes of these ideas using tools like Arduino and NodeMCU. As cliché as it may sound, your imagination truly is the limit. So the next time you come up with a coffee machine that starts brewing as soon as you get out of bed; write it down, order a NodeMCU and a pressure sensor.. and start building!
+
+#### sources
+
+* [Cool NodeMCU examples)](https://hackaday.io/projects?tag=NodeMCU)
+* [IoT bigger than anyone realizes](https://www.wired.com/insights/2014/11/the-internet-of-things-bigger/)
+* [ubiquitous computing](http://www.dream-small.com/ubiquitous-computing-imagining-future)

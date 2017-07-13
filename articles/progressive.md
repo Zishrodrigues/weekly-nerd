@@ -25,3 +25,9 @@ Once you’ve got a solid web app running on HTML and CSS you can start adding J
 ### conclusion
 
 Thinking in layers can help us as developers in more ways than one. Not only do we build usable products with clean code; but we can filter out what’s actually important in order for our web app to work as intended and deliver a solid user experience.
+
+#### sources
+
+* [Google dive into PWA](https://developers.google.com/web/progressive-web-apps/)
+* [Smashing article on PWA](https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/)
+* [Google talk on PWA](https://www.youtube.com/watch?v=m-sCdS0sQO8)

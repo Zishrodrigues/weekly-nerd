@@ -21,3 +21,8 @@ When the presentation started Bram took us through the HvA website and showed us
 ### conclusion
 
 After the talk was over I just sat there for a bit. Lost in thought, inspired. Here was a blind developer that not only had more knowledge about the web and it’s inner workings than I did, he browsed and read a website faster and more accurate than I ever could. This truly made me realize what Vasilis has always been telling us; the web is for everyone. And not only can everyone use the web, they can all use it equally efficiently and in their own way. As a web developer it is my responsibility to make sure it stays this way. I can create website and apps that are open and accessible to everyone. And I can inspire others to do so too.
+
+#### sources
+
+* [Talk Bram gave](https://vimeo.com/52882798)
+* [General info](http://www.web-accessibility.org.uk/web-accessibility-for-blind-people.html)
