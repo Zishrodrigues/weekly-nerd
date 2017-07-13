@@ -13,7 +13,7 @@ Wat een ontzettend toffe schrijfstijl heb je. Gebruik dat gerust in de toekomst 
 
 * To do:
 
-[X] Add sources to the articles
+- [X] Add sources to the articles
 
 ## Articles
 
